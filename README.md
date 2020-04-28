@@ -3,14 +3,14 @@
 Spock poster from 1973, to be printed on old style line printer, multiple lines overprinted.
 
 From inside the file:
-                         MR. SPOCK
-                         COMPUTER TRANSCRIPTION PROCESS
-                         BY SAMUEL P. HARBISON
-                         COMPUTER CENTER CLINIC
-                         PRINCETON UNIVERSITY
-                         87 PROSPECT ST.
-                         PRINCETON, NEW JERSEY 08540
-                         COPYRIGHT 1973 BY S. P. HARBISON
+MR. SPOCK
+COMPUTER TRANSCRIPTION PROCESS
+BY SAMUEL P. HARBISON
+COMPUTER CENTER CLINIC
+PRINCETON UNIVERSITY
+87 PROSPECT ST.
+PRINCETON, NEW JERSEY 08540
+COPYRIGHT 1973 BY S. P. HARBISON
 
 
 THE COMPLETE PICTURE IS CONSTRUCTED BY TAPING THE SHEETS TOGETHER SO THAT THE
